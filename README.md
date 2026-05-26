@@ -1,3 +1,3 @@
 # GitHubDemo
 
-New Repository Added
+Status: New repository added.
